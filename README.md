@@ -2,7 +2,7 @@
 
 Lunaire Events is a cinematic, multi-page web application built for a high-end wedding planning and event production studio. Designed with an editorial-magazine aesthetic, it combines elegant typography, rich dark/gold themes, interactive micro-animations, and fluid transitions to create an immersive, luxury brand experience.
 
-Live Demo URL: [lunaire-events.vercel.app](https://lunaire-events.vercel.app/)
+Live Demo URL: [lunaire-events-nine.vercel.app](https://lunaire-events-nine.vercel.app/)
 
 ---
 

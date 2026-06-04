@@ -96,6 +96,6 @@ lunaire-events/
 
 ---
 
-## 📄 License
+## 🔒 Portfolio Showcase
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is a personal portfolio showcase demonstrating high-end front-end styling, typography, and layout engineering. All rights reserved.
